@@ -11,7 +11,7 @@ A desktop application that illustrates the signal sampling and recovery showing 
 - [x] Show or hide samples selected
 - [x] Reconstruct signal from samples using Nyquist-Shannon theory
 - [x] View the difference between original signal and reconstructed signal
-
+- [x] Add noise to the signal using a slider
 
 ## Preview GIF
 
